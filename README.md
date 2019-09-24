@@ -3,3 +3,4 @@ Changes the requirement to access the Lower City elevator to all party members w
 
 Requires a save before entering the Apartments for the first time.
 
+Thanks to Jellypumpkin on the /r/kotor Discord for suggesting the idea and testing the initial version.
